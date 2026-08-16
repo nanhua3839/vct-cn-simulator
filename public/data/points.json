@@ -1,0 +1,134 @@
+[
+  {
+    "teamId": "EDG",
+    "kickoffPoints": 2,
+    "stage1RegularPoints": 5,
+    "stage1PlayoffPoints": 6,
+    "stage2RegularPoints": 3,
+    "stage2PlayoffPoints": 8,
+    "mastersPoints": 12,
+    "totalPoints": 36,
+    "qualifiedStatus": "qualified"
+  },
+  {
+    "teamId": "BLG",
+    "kickoffPoints": 1,
+    "stage1RegularPoints": 4,
+    "stage1PlayoffPoints": 4,
+    "stage2RegularPoints": 4,
+    "stage2PlayoffPoints": 6,
+    "mastersPoints": 8,
+    "totalPoints": 27,
+    "qualifiedStatus": "qualified"
+  },
+  {
+    "teamId": "AG",
+    "kickoffPoints": 4,
+    "stage1RegularPoints": 3,
+    "stage1PlayoffPoints": 0,
+    "stage2RegularPoints": 4,
+    "stage2PlayoffPoints": 4,
+    "mastersPoints": 6,
+    "totalPoints": 21,
+    "qualifiedStatus": "pending"
+  },
+  {
+    "teamId": "RNG",
+    "kickoffPoints": 3,
+    "stage1RegularPoints": 4,
+    "stage1PlayoffPoints": 3,
+    "stage2RegularPoints": 1,
+    "stage2PlayoffPoints": 0,
+    "mastersPoints": 4,
+    "totalPoints": 15,
+    "qualifiedStatus": "pending"
+  },
+  {
+    "teamId": "TE",
+    "kickoffPoints": 0,
+    "stage1RegularPoints": 5,
+    "stage1PlayoffPoints": 2,
+    "stage2RegularPoints": 1,
+    "stage2PlayoffPoints": 2,
+    "mastersPoints": 0,
+    "totalPoints": 10,
+    "qualifiedStatus": "eliminated"
+  },
+  {
+    "teamId": "NOVA",
+    "kickoffPoints": 0,
+    "stage1RegularPoints": 0,
+    "stage1PlayoffPoints": 0,
+    "stage2RegularPoints": 5,
+    "stage2PlayoffPoints": 5,
+    "mastersPoints": 0,
+    "totalPoints": 10,
+    "qualifiedStatus": "pending"
+  },
+  {
+    "teamId": "FPX",
+    "kickoffPoints": 0,
+    "stage1RegularPoints": 3,
+    "stage1PlayoffPoints": 0,
+    "stage2RegularPoints": 0,
+    "stage2PlayoffPoints": 2,
+    "mastersPoints": 0,
+    "totalPoints": 5,
+    "qualifiedStatus": "eliminated"
+  },
+  {
+    "teamId": "TYL",
+    "kickoffPoints": 0,
+    "stage1RegularPoints": 1,
+    "stage1PlayoffPoints": 0,
+    "stage2RegularPoints": 4,
+    "stage2PlayoffPoints": 1,
+    "mastersPoints": 0,
+    "totalPoints": 6,
+    "qualifiedStatus": "eliminated"
+  },
+  {
+    "teamId": "TEC",
+    "kickoffPoints": 0,
+    "stage1RegularPoints": 3,
+    "stage1PlayoffPoints": 0,
+    "stage2RegularPoints": 2,
+    "stage2PlayoffPoints": 1,
+    "mastersPoints": 0,
+    "totalPoints": 6,
+    "qualifiedStatus": "eliminated"
+  },
+  {
+    "teamId": "DRG",
+    "kickoffPoints": 0,
+    "stage1RegularPoints": 2,
+    "stage1PlayoffPoints": 0,
+    "stage2RegularPoints": 2,
+    "stage2PlayoffPoints": 0,
+    "mastersPoints": 0,
+    "totalPoints": 4,
+    "qualifiedStatus": "eliminated"
+  },
+  {
+    "teamId": "WOL",
+    "kickoffPoints": 0,
+    "stage1RegularPoints": 2,
+    "stage1PlayoffPoints": 0,
+    "stage2RegularPoints": 0,
+    "stage2PlayoffPoints": 0,
+    "mastersPoints": 0,
+    "totalPoints": 2,
+    "qualifiedStatus": "eliminated"
+  },
+  {
+    "teamId": "JDG",
+    "kickoffPoints": 0,
+    "stage1RegularPoints": 2,
+    "stage1PlayoffPoints": 0,
+    "stage2RegularPoints": 0,
+    "stage2PlayoffPoints": 0,
+    "mastersPoints": 0,
+    "totalPoints": 2,
+    "qualifiedStatus": "eliminated"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  { "teamId": "EDG", "teamNameCn": "上海EDG", "teamNameEn": "EDward Gaming", "logo": "", "totalPoints": 36 },
+  { "teamId": "BLG", "teamNameCn": "哔哩哔哩游戏", "teamNameEn": "Bilibili Gaming", "logo": "", "totalPoints": 27 },
+  { "teamId": "AG", "teamNameCn": "全英雄", "teamNameEn": "All Gamers", "logo": "", "totalPoints": 21 },
+  { "teamId": "RNG", "teamNameCn": "皇族电竞", "teamNameEn": "Royal Never Give Up", "logo": "", "totalPoints": 15 },
+  { "teamId": "TE", "teamNameCn": "上海TE", "teamNameEn": "Trace Esports", "logo": "", "totalPoints": 10 },
+  { "teamId": "NOVA", "teamNameCn": "NOVA电竞", "teamNameEn": "Nova Esports", "logo": "", "totalPoints": 10 },
+  { "teamId": "FPX", "teamNameCn": "北京FPX", "teamNameEn": "FunPlus Phoenix", "logo": "", "totalPoints": 5 },
+  { "teamId": "TYL", "teamNameCn": "天禄", "teamNameEn": "Tyloo", "logo": "", "totalPoints": 6 },
+  { "teamId": "TEC", "teamNameCn": "钛金电竞", "teamNameEn": "Titan Esports Club", "logo": "", "totalPoints": 6 },
+  { "teamId": "DRG", "teamNameCn": "龙骑士电竞", "teamNameEn": "Dragon Ranger Gaming", "logo": "", "totalPoints": 4 },
+  { "teamId": "WOL", "teamNameCn": "狼队电竞", "teamNameEn": "Wolves Esports", "logo": "", "totalPoints": 2 },
+  { "teamId": "JDG", "teamNameCn": "京东电竞", "teamNameEn": "JD Gaming", "logo": "", "totalPoints": 2 }
+]
