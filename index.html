@@ -10,16 +10,5 @@
   <body>
     <div id="app"></div>
     <script type="module" src="/src/main.ts"></script>
-    <script>
-      // GitHub Pages SPA redirect: 404.html 将路径存入 sessionStorage 后重定向到 /
-      // 此脚本在首页加载时恢复真实路径，vue-router 即可正常匹配
-      (function() {
-        var redirect = sessionStorage.redirect;
-        delete sessionStorage.redirect;
-        if (redirect && redirect !== location.href) {
-          history.replaceState(null, null, redirect);
-        }
-      })();
-    </script>
   </body>
 </html>
