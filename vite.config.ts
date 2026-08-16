@@ -11,6 +11,5 @@ export default defineConfig({
       '@': fileURLToPath(new URL('./src', import.meta.url)),
     },
   },
-  // GitHub Pages 项目页部署时由 Task 14 再调整为仓库名 base
-  base: '/',
+  base: '/vct-cn-simulator/',
 })
